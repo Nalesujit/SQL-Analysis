@@ -6,8 +6,6 @@ Built with
 
 SQL Languages
 
-
-
 SQL
 
 MySQL
@@ -15,4 +13,5 @@ MySQL
 PostgreSQL
 
 MySQL Workbench
+
 pgAdmin
