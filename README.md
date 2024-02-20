@@ -1,6 +1,6 @@
 # SQL Data Analysis Projects- Instagram Dataset
 
-Compilation of SQL, Tableau, data analysis related projects and challenges where I practice those skills.
+Compilation of SQL data analysis related projects and challenges where I practice those skills.
 
 Built with
 
@@ -10,8 +10,5 @@ SQL
 
 MySQL
 
-PostgreSQL
-
 MySQL Workbench
 
-pgAdmin
